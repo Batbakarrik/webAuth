@@ -1,2 +1,0 @@
-# webAuth
-Created with CodeSandbox
